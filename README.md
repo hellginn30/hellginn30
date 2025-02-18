@@ -36,19 +36,17 @@
     <h2>External Education</h2>
     <div>
       <details>
-        <summary>Boostcamp AI Tech: 2023.11 - 2024.04</summary>
+        <summary>....: 0000.00-0000.00</summary>
         <ul>
-          <li>Term: 2023.11.06 - 2024.04.02 </li>
-          <li>Organizer: Naver Connect</li>
-          <li>Domain: Computer Vision</li>
+          <li>Term: 0000.00.00-0000.00.00(00days) </li>
+          <li>Organizer: ...</li>
+          <li>Domain: ...</li>
           <li>Detail: </li>
           <ul>
             <li>
-            <li>Language: Python</li>
-            <li>Framework: Numpy, Pandas, Matplotlib, PyTorch, MMDetection, FastAPI</li>
-            <li>Tools: VSCode</li>
+            <li>...</li>
           </ul>
-          <li>[Result] </li>
+          <li>[Result] projectName</li>
         </ul>
       </details>
     </div>
