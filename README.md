@@ -5,7 +5,7 @@
 <nav>
   <p>
     <a href="#intro">Introduce</a> |<a href="#education">Education</a> | 
-    <a href="#external_education">External Education</a> | <a href="#projects">Projects</a> | <a href="#certificate">Certificate</a> | <a href="#life cycle">Life Cycle</a>
+    <a href="#external_education">External Education</a> | <a href="#projects">Projects</a> | <a href="#certificate">Certificate</a> | <a href="#life_cycle">Life Cycle</a>
   </p>
 </nav>
 
